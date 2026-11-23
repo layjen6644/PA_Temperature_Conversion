@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jenkins Temperature Conversion</string>
+    <string name="txt_title">Layla Jenkins Temperature Conversion</string>
+    <string name="hint">Enter Temperature</string>
+    <string name="f_to_c">Convert Fahrenheit to Celsius</string>
+    <string name="c_to_f">Convert Celsius to Fahrenheit</string>
+    <string name="btn_convert">Convert Temperature</string>
+    <string name="img_temp">Temperature Image</string>
+</resources>
